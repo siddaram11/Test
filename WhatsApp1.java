@@ -4,6 +4,6 @@ public class WhatsApp1 {
 		System.out.println("Single Tick Supported");
 	}
 
-}
+}//modified the changes
 
 
