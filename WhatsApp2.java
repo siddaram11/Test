@@ -9,6 +9,7 @@ public class WhatsApp2 extends WhatsApp1 {
 
 	public void call() {
 		System.out.println("Voice Calling is Supported");
+		System.out.println("Voice Calling is Supported");
 	}
 
 }
